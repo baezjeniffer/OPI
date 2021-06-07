@@ -6,7 +6,7 @@
 
 El archivo correspondiente al ejercicio de la sección 1 esta en el archivo PGR.ipynb. EL esquema esta dividido por las celdas markdown, en el cual el punto 4 abarca el cuestionario del ejercicio.
 
-Las secciones **4.i** indican el inicio de cada pregunta y las subsecciones **4.i.j** Respuesta son las conclusiones e impresiones de resultados.
+Las secciones **4.i** indican el inicio de cada pregunta y las subsecciones **4.i.j Respuesta** son las conclusiones e impresiones de resultados.
 
 #### Archivos utilizados:
 1. 09a.shp / 09ar.shp shapefiles por AGEB (https://www.inegi.org.mx/app/biblioteca/ficha.html?upc=702825004386)
