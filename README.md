@@ -6,7 +6,7 @@
 
 El archivo correspondiente al ejercicio de la sección 1 esta en el archivo PGR.ipynb. EL esquema esta dividido por las celdas markdown, en el cual el punto 4 abarca el cuestionario del ejercicio.
 
-Las secciones **4.i** indican el inicio de cada pregunta y las subsecciones **4.i.j Respuesta** son las conclusiones e impresiones de resultados.
+Las secciones **4.i** indican el inicio de cada pregunta y las subsecciones **4.i.j Respuesta/Resultados** son las conclusiones e impresiones de resultados.
 
 #### Archivos utilizados:
 
@@ -19,7 +19,7 @@ Las secciones **4.i** indican el inicio de cada pregunta y las subsecciones **4.
 
 El archivo correspondiente al ejercicio de la sección 2 esta en el archivo PROFECO.ipynb. EL esquema esta dividido por las celdas markdown, en el cual el punto 3 abarca el cuestionario del ejercicio.
 
-Las secciones **3.i** indican el inicio de cada pregunta y las subsecciones **3.i.j Respuesta** son las conclusiones e impresiones de resultados.
+Las secciones **3.i** indican el inicio de cada pregunta y las subsecciones **3.i.j.k Respuesta/Resultados** son las conclusiones e impresiones de resultados.
 
 #### Archivos utilizados:
 
